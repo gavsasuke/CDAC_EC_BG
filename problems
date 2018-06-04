@@ -1,1 +1,5 @@
-
+# 1. Malware: According to eWeek, 2-4% of all emails contain a virus, which means that 6 million email viruses are sent out every day.
+A particular nasty variation of malware circulated via email is ransomware, which encrypts all files on the system and demands a ransom to unlock the data. 
+Unfortunately, even if you have an antivirus solution in place, this will not necessarily protect you from all threats.
+As Darryl K. Taft wrote in a recent eWeek article: "Many standard off-the-shelf antivirus solutions do not have the sophistication or capabilities to stay on top of the daily evolution of viruses and malware." 
+To increase protection against email threats and new outbreaks, companies need to implement a multi scanning solution that will scan email attachments with multiple antivirus engines. By leveraging the power of the different detection algorithms and heuristics of each engine, detection rates are significantly increased, providing robust protection against malware threats.
